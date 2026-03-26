@@ -1,1 +1,1 @@
-Using for Databrick first demo project!
+Using for first demo project on Azure Databrick!
